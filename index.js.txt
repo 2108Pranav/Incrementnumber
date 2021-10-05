@@ -1,0 +1,11 @@
+import React from 'react';
+import ReactDOM from 'react-dom';
+import Apphook from './Apphook';
+import './index.css';
+
+
+ ReactDOM.render(
+  <Apphook/>,document.getElementById('root')
+  );
+
+
